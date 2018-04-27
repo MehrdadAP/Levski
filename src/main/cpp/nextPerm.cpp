@@ -1,3 +1,11 @@
+
+// Given an array of numbers (duplicate is allowed), find the next greatest lexicographical permuattion
+// if not possible, rotate and return the smallest one. 
+// 4,3,1,5 -> 4 3 5 1
+// 3,2,1 -> 1,2,3
+
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
